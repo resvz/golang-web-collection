@@ -1,1 +1,3 @@
 port: :8000
+upload:
+  basepath: C:\DATA
